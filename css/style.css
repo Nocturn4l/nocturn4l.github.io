@@ -617,6 +617,7 @@ a:hover {
   justify-content: center;
   align-items: center;
   overflow: hidden;
+  background-position:center top; /*centra lo sfondo nei dispositivi mobili*/
 }
 
 .hero-area .block {
